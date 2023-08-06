@@ -8,5 +8,5 @@ Features
 Control the snake using the arrow keys (Up, Down, Left, Right).
 The snake's length increases when it eats the food.
 Score is displayed on the screen, representing the number of food items eaten.
-The game ends if the snake collides with itself or the boundaries.
+The game ends if the snake collides with itself or the boundaries or the time ends.
 You can restart the game by pressing the 'R' key after the game is over.
